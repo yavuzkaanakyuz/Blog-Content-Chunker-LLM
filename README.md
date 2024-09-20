@@ -1,6 +1,5 @@
 # Blog-Content-Chunker-LLM
 
-# Blog Content Chunker LLM
 
 This project leverages web scraping and large language models (LLM) to load, chunk, and retrieve information from blog content. It scrapes and indexes the contents of a blog post, splits the content into manageable chunks, and uses OpenAI embeddings to enable efficient content retrieval.
 
